@@ -11,3 +11,9 @@
 ## Egg Dosa
 * Dosa Batter
 * 1/2 eggs, karam and oil
+
+## Panner Dosa
+* Dosa Batter
+* Ghee
+* Kaju Paste
+* Panneer
