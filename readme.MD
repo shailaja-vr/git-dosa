@@ -17,3 +17,4 @@
 * Ghee
 * Kaju Paste
 * Panneer
+* Mysore Masala
