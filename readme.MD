@@ -19,3 +19,4 @@
 * Panneer
 * Mysore Masala
 * Onions and Tamota
+* capsicum
